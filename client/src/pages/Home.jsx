@@ -7,18 +7,18 @@ import Marquee  from "react-fast-marquee";
 import { Button } from 'flowbite-react';
 
 const rowOneImages = [
-  {url: "../src/assets/card1.jpg"},
-  {url: "../src/assets/card2.png"},
-  {url: "../src/assets/card3.jpg"},
-  {url: "../src/assets/card4.png"},
-  {url: "../src/assets/card5.png"},
+  {url: "https://i.postimg.cc/YC67wtkw/card1.jpg"},
+  {url: "https://i.postimg.cc/s23rjbDG/card2.png"},
+  {url: "https://i.postimg.cc/6QzNyzyj/card3.jpg"},
+  {url: "https://i.postimg.cc/MTF2YT01/card4.png"},
+  {url: "https://i.postimg.cc/xCCVHHm0/card5.png"},
 ];
 const rowTwoImages = [
-  {url: "../src/assets/card1.jpg"},
-  {url: "../src/assets/card2.png"},
-  {url: "../src/assets/card3.jpg"},
-  {url: "../src/assets/card4.png"},
-  {url: "../src/assets/card5.png"},
+  {url: "https://i.postimg.cc/YC67wtkw/card1.jpg"},
+  {url: "https://i.postimg.cc/s23rjbDG/card2.png"},
+  {url: "https://i.postimg.cc/6QzNyzyj/card3.jpg"},
+  {url: "https://i.postimg.cc/MTF2YT01/card4.png"},
+  {url: "https://i.postimg.cc/xCCVHHm0/card5.png"},
 ];
 
 export default function Home() {
