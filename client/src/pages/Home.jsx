@@ -7,18 +7,18 @@ import Marquee  from "react-fast-marquee";
 import { Button } from 'flowbite-react';
 
 const rowOneImages = [
-  {url: "../src/assets/card1.jpg"},
-  {url: "../src/assets/card2.png"},
-  {url: "../src/assets/card3.jpg"},
-  {url: "../src/assets/card4.png"},
-  {url: "../src/assets/card5.png"},
+  {url: "https://i.postimg.cc/YC67wtkw/card1.jpg"},
+  {url: "https://i.postimg.cc/s23rjbDG/card2.png"},
+  {url: "https://i.postimg.cc/6QzNyzyj/card3.jpg"},
+  {url: "https://i.postimg.cc/MTF2YT01/card4.png"},
+  {url: "https://i.postimg.cc/xCCVHHm0/card5.png"},
 ];
 const rowTwoImages = [
-  {url: "../src/assets/card1.jpg"},
-  {url: "../src/assets/card2.png"},
-  {url: "../src/assets/card3.jpg"},
-  {url: "../src/assets/card4.png"},
-  {url: "../src/assets/card5.png"},
+  {url: "https://i.postimg.cc/YC67wtkw/card1.jpg"},
+  {url: "https://i.postimg.cc/s23rjbDG/card2.png"},
+  {url: "https://i.postimg.cc/6QzNyzyj/card3.jpg"},
+  {url: "https://i.postimg.cc/MTF2YT01/card4.png"},
+  {url: "https://i.postimg.cc/xCCVHHm0/card5.png"},
 ];
 
 export default function Home() {
@@ -38,7 +38,7 @@ export default function Home() {
     <div >
       <div className='w-full md:min-h-screen lg:flex items-center '>
         {/*Parte Derecha*/}
-        <div className='w-full  text-center lg:-mt-36 p-4'>
+        <div className='w-full  text-center  p-4'>
           <h1 className='text-3xl font-bold lg:text-7xl p-4 font-caveat'>El blog de Yanngo</h1>
           <p className='text-gray-300 p-4 font-nunito lg:text-lg '>
           ¡Bienvenidos a Yanngo! En este espacio, exploraremos las últimas novedades y tendencias en el apasionante mundo de la tecnología. Desde reseñas de dispositivos innovadores hasta análisis en profundidad de las últimas aplicaciones y software, nuestro objetivo es mantenerte al tanto de todo lo relacionado con el vertiginoso avance tecnológico. Ya seas un entusiasta de la tecnología, un profesional del sector o simplemente alguien interesado en las últimas noticias, estamos aquí para ofrecerte contenido fresco, perspicaz y relevante. Únete a nosotros en este viaje emocionante a través del universo tecnológico.
